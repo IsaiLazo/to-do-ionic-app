@@ -22,4 +22,5 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 - En la carpeta raíz, ejecuta `npm i`
 - Luego `ionic serve`
 
-Este proyecto fue hecho gracias a la ayuda del instructor de Udemy Fernando Herrera.
+## El proyecto se puede probar en el siguiente link:
+- [to-do-ionic-app](https://to-do-ionic-app.netlify.app/)
